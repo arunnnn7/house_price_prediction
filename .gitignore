@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# ML models
+model/
+*.pkl
+
+# Dataset
+data/
+*.csv
+
+# VS Code settings
+.vscode/
